@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+body{
+    background-color: aquamarine;
+}
+
+h1{ 
+    color: mediumseagreen;
+    text-align: center;
+    font-family: "Playfair Display";
+}
